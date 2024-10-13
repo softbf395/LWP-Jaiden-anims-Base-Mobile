@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="a20tf2.png">
+    <!-- Idle Animation Frames -->
+    <SubTexture name="Idle0000" x="0" y="0" width="380" height="352" frameX="-93" frameY="-101" frameWidth="500" frameHeight="500"/>
+    <SubTexture name="Idle0001" x="380" y="0" width="332" height="284" frameX="-106" frameY="-153" frameWidth="500" frameHeight="500"/>
+
+    <!-- Singing Animations Frames -->
+    <SubTexture name="singDOWN0000" x="0" y="352" width="380" height="352" frameX="-93" frameY="-101" frameWidth="500" frameHeight="500"/>
+    <SubTexture name="singDOWN0001" x="380" y="284" width="332" height="284" frameX="-106" frameY="-153" frameWidth="500" frameHeight="500"/>
+
+    <SubTexture name="singLEFT0000" x="0" y="704" width="347" height="269" frameX="0" frameY="-150" frameWidth="500" frameHeight="500"/>
+    <SubTexture name="singLEFT0001" x="347" y="704" width="293" height="287" frameX="-46" frameY="-132" frameWidth="500" frameHeight="500"/>
+
+    <SubTexture name="singRIGHT0000" x="640" y="704" width="290" height="261" frameX="-200" frameY="-162" frameWidth="500" frameHeight="500"/>
+    <SubTexture name="singRIGHT0001" x="930" y="704" width="302" height="266" frameX="-179" frameY="-161" frameWidth="500" frameHeight="500"/>
+
+    <SubTexture name="singUP0000" x="0" y="973" width="441" height="408" frameX="-47" frameY="-11" frameWidth="500" frameHeight="500"/>
+    <SubTexture name="singUP0001" x="441" y="973" width="403" height="369" frameX="-51" frameY="-44" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>

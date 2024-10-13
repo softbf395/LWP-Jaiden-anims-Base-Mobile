@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["cheesebreaker", "a20", [100,0,100]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "A-20",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
